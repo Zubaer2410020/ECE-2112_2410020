@@ -59,16 +59,16 @@ Rajshahi University of Engineering & Technology, Rajshahi – 6204
 
 # 📚 Index of Laboratory Reports
 
-| Lab No. | Experiment | Report | Logisim |
+| Lab No. | Experiment | Report | TOTAL PROBLEMS |
 |:-------:|------------|:------:|:--------:|
-| 01 | Implementation of Logic Gates Using Universal Gates, Full Adder and Binary to BCD Converter | [LAB_1](https://github.com/Zubaer2410020/ECE-2112_2410020/blob/main/LAB%20REPORTS/DT_LAB_REPORT_01.pdf) | ✅ |
-| 02 | Simplification of Boolean Expressions Using Boolean Algebra and Karnaugh Map, and Verification Using Logic Circuit Simulation | ✅ Available | ✅ |
-| 03 | Coming Soon | 🚧 | — |
-| 04 | Coming Soon | 🚧 | — |
-| 05 | Coming Soon | 🚧 | — |
-| 06 | Coming Soon | 🚧 | — |
-| 07 | Coming Soon | 🚧 | — |
-| 08 | Coming Soon | 🚧 | — |
+| 01 | Implementation of Logic Gates Using Universal Gates, Full Adder and Binary to BCD Converter | [LAB_1](https://github.com/Zubaer2410020/ECE-2112_2410020/blob/main/LAB%20REPORTS/DT_LAB_REPORT_01.pdf) | 8 |
+| 02 | Simplification of Boolean Expressions Using Boolean Algebra and Karnaugh Map, and Verification Using Logic Circuit Simulation | ✅ Available | 4 |
+| 03 | Coming Soon |  | — |
+| 04 | Coming Soon |  | — |
+| 05 | Coming Soon |  | — |
+| 06 | Coming Soon |  | — |
+| 07 | Coming Soon |  | — |
+| 08 | Coming Soon |  | — |
 
 ---
 
