@@ -63,7 +63,7 @@ Rajshahi University of Engineering & Technology, Rajshahi – 6204
 |:-------:|------------|:------:|:--------:|
 | 01 | Implementation of Logic Gates Using Universal Gates, Full Adder and Binary to BCD Converter | [LAB_1](https://github.com/Zubaer2410020/ECE-2112_2410020/blob/main/LAB%20REPORTS/DT_LAB_REPORT_01.pdf) | 8 |
 | 02 | Simplification of Boolean Expressions Using Boolean Algebra and Karnaugh Map, and Verification Using Logic Circuit Simulation |  | 4 |
-| 03 | Coming Soon |  | — |
+| 03 | Coming Soon | (https://github.com/Zubaer2410020/ECE-2112_2410020/blob/main/LAB%20REPORTS/DT_LAB_REPORT_02.pdf) | — |
 | 04 | Coming Soon |  | — |
 | 05 | Coming Soon |  | — |
 | 06 | Coming Soon |  | — |
